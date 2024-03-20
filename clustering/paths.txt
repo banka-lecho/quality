@@ -1,0 +1,7 @@
+[Paths]
+path_dirty_pics:/Users/anastasiaspileva/quality-assessment/clustering/data/test/dirty/
+path:/Users/anastasiaspileva/quality-assessment/clustering/data/test/clean/
+path_bad_pics:/Users/anastasiaspileva/quality-assessment/clustering/data/test/bad/
+path_statistics:/Users/anastasiaspileva/quality-assessment/clustering/statistics/
+path_result:/Users/anastasiaspileva/quality-assessment/clustering/result/
+path_visualization:/Users/anastasiaspileva/quality-assessment/clustering/visualize_result/
